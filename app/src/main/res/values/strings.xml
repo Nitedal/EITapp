@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EIT app</string>
+    <string name="choose_language">Choose language:</string>
+    <string name="norsk">Norsk</string>
+    <string name="english">English</string>
+    <string name="arabic">عربى</string>
+    <string name="espaniol">Español</string>
+</resources>
