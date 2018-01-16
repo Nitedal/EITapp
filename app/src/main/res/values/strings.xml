@@ -21,4 +21,5 @@
         completions."
     </string>
     <string name="user_name">User name</string>
+    <string name="register">Register new user</string>
 </resources>
