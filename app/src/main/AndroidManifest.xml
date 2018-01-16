@@ -25,7 +25,8 @@
         <activity android:name=".infoScreen" />
         <activity android:name=".LoggonScreen" />
         <activity android:name=".RegisterNewUser" />
-        <activity android:name=".Mainscreen"></activity>
+        <activity android:name=".Mainscreen" />
+        <activity android:name=".RegistrerNewActivity"></activity>
     </application>
 
 </manifest>

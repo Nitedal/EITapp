@@ -20,9 +20,16 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
-    <string name="user_name">User name</string>
+    <string name="user_name">User name:</string>
     <string name="register">Register new user</string>
     <string name="enter_name">Enter name:</string>
     <string name="enter_password">Enter password:</string>
     <string name="repeat_password">Repeat password:</string>
+    <string name="mine_aktiviteter">Mine aktiviteter</string>
+    <string name="registrer_ny_aktivitet">Registrer ny aktivitet</string>
+    <string name="finn_aktivitet_og_delta">Finn aktivitet og delta</string>
+    <string name="mine_foresporseler">Mine forespørseler</string>
+    <string name="default_name">Navn Navnesen</string>
+    <string name="select_activity_type">Select activity type:</string>
+    <string name="select">Select</string>
 </resources>
