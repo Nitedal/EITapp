@@ -23,7 +23,9 @@
         </activity>
         <activity android:name=".language_list" />
         <activity android:name=".infoScreen" />
-        <activity android:name=".LoggonScreen"></activity>
+        <activity android:name=".LoggonScreen" />
+        <activity android:name=".RegisterNewUser" />
+        <activity android:name=".Mainscreen"></activity>
     </application>
 
 </manifest>

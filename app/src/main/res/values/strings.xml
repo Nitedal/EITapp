@@ -22,4 +22,7 @@
     </string>
     <string name="user_name">User name</string>
     <string name="register">Register new user</string>
+    <string name="enter_name">Enter name:</string>
+    <string name="enter_password">Enter password:</string>
+    <string name="repeat_password">Repeat password:</string>
 </resources>
