@@ -25,11 +25,24 @@
     <string name="enter_name">Enter name:</string>
     <string name="enter_password">Enter password:</string>
     <string name="repeat_password">Repeat password:</string>
-    <string name="mine_aktiviteter">Mine aktiviteter</string>
-    <string name="registrer_ny_aktivitet">Registrer ny aktivitet</string>
-    <string name="finn_aktivitet_og_delta">Finn aktivitet og delta</string>
-    <string name="mine_foresporseler">Mine forespørseler</string>
+    <string name="mine_aktiviteter">Mine activities</string>
+    <string name="registrer_ny_aktivitet">Registrer new activity</string>
+    <string name="finn_aktivitet_og_delta">Find activity and participate</string>
+    <string name="mine_foresporseler">My requests</string>
     <string name="default_name">Navn Navnesen</string>
     <string name="select_activity_type">Select activity type:</string>
     <string name="select">Select</string>
+    <string name="select_location">Select location:</string>
+    <string name="select_when">Select when:</string>
+    <string name="max_mount_of_participents">Max amount of participents:</string>
+    <string name="select_where">Select where:</string>
+    <string name="register_activity">Register activity</string>
+    <string name="culture">Culture</string>
+    <string name="social">Social</string>
+    <string name="physical_activity">Physical activity</string>
+    <string name="other">Other</string>
+    <string name="sport">Sport</string>
+    <string name="walk">Walk</string>
+    <string name="play">Play</string>
+
 </resources>

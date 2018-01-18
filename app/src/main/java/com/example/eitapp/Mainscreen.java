@@ -20,13 +20,13 @@ public class Mainscreen extends AppCompatActivity {
     }
 
     public void openRegisterNew(View view) {
-        Intent intent = new Intent(this, infoScreen.class);
+        Intent intent = new Intent(this, RegistrerNewActivity.class);
         startActivity(intent);
 
     }
 
     public void openFindActivity(View view) {
-        Intent intent = new Intent(this, infoScreen.class);
+        Intent intent = new Intent(this, activitySelectionMain.class);
         startActivity(intent);
 
     }
