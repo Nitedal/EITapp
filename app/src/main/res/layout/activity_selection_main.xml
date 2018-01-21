@@ -32,6 +32,7 @@
         android:id="@+id/button20"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
+        android:onClick="openFindPhysicalSubSelection"
         android:text="@string/physical_activity"
         app:layout_constraintBottom_toTopOf="@+id/button21"
         app:layout_constraintHorizontal_bias="0.5"

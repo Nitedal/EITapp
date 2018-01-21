@@ -44,5 +44,10 @@
     <string name="sport">Sport</string>
     <string name="walk">Walk</string>
     <string name="play">Play</string>
+    <string name="trondheim">Trondheim</string>
+    <string name="a_example_date">Monday 22.10.18 at 17.30</string>
+    <string name="a_example_number_five">5</string>
+    <string name="written_description">Written description</string>
+    <string name="join_activity">Join activity</string>
 
 </resources>

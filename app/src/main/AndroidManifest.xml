@@ -28,7 +28,8 @@
         <activity android:name=".Mainscreen" />
         <activity android:name=".RegistrerNewActivity" />
         <activity android:name=".activitySelectionMain" />
-        <activity android:name=".ActivitySelectPhysicalActivity"></activity>
+        <activity android:name=".ActivitySelectPhysicalActivity" />
+        <activity android:name=".ViewActivity"></activity>
     </application>
 
 </manifest>

@@ -13,7 +13,7 @@ public class activitySelectionMain extends AppCompatActivity {
         setContentView(R.layout.activity_selection_main);
     }
 
-    public void openFindActivity(View view) {
+    public void openFindPhysicalSubSelection(View view) {
         Intent intent = new Intent(this, ActivitySelectPhysicalActivity.class);
         startActivity(intent);
 
