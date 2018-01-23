@@ -49,5 +49,12 @@
     <string name="a_example_number_five">5</string>
     <string name="written_description">Written description</string>
     <string name="join_activity">Join activity</string>
+    <string name="Min_amount_of_participents">Min amount of participents:</string>
+    <string name="num_three">3</string>
+    <string name="quick_search_based_upon_interest">Quick search based upon interest</string>
+    <string name="find_activity_close_by">Find activity close by</string>
+    <string name="advanced_search">Advanced search</string>
+    <string name="register_request">Register request</string>
+    <string name="find_activity">Find activity</string>
 
 </resources>

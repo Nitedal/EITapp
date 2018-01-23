@@ -26,7 +26,7 @@ public class Mainscreen extends AppCompatActivity {
     }
 
     public void openFindActivity(View view) {
-        Intent intent = new Intent(this, activitySelectionMain.class);
+        Intent intent = new Intent(this, FindActivity.class);
         startActivity(intent);
 
     }

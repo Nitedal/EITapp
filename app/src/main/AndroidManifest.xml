@@ -29,7 +29,9 @@
         <activity android:name=".RegistrerNewActivity" />
         <activity android:name=".activitySelectionMain" />
         <activity android:name=".ActivitySelectPhysicalActivity" />
-        <activity android:name=".ViewActivity"></activity>
+        <activity android:name=".ViewActivity" />
+        <activity android:name=".FindActivity" />
+        <activity android:name=".Calender"></activity>
     </application>
 
 </manifest>
