@@ -5,15 +5,16 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-public class FindActivity extends AppCompatActivity {
+public class MyActivityList extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_find);
+        setContentView(R.layout.activity_my_list);
     }
-    public void openCalender(View view) {
-        Intent intent = new Intent(this, Calender.class);
+
+    public void openViewActivityJoined(View view) {
+        Intent intent = new Intent(this, ViewJoinedActivity.class);
         startActivity(intent);
 
     }

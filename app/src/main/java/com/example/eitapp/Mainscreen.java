@@ -13,8 +13,8 @@ public class Mainscreen extends AppCompatActivity {
         setContentView(R.layout.activity_mainscreen);
     }
 
-    public void openMineActivities(View view) {
-        Intent intent = new Intent(this, infoScreen.class);
+    public void openMyActivities(View view) {
+        Intent intent = new Intent(this, MyActivityList.class);
         startActivity(intent);
 
     }

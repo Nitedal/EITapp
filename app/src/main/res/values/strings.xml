@@ -56,5 +56,20 @@
     <string name="advanced_search">Advanced search</string>
     <string name="register_request">Register request</string>
     <string name="find_activity">Find activity</string>
+    <string name="example_img">Example_img</string>
+    <string name="requests">Requests</string>
+    <string name="calender">Calender</string>
+    <string name="my_activities">My activities</string>
+    <string name="view_chat">View Chat</string>
+    <string name="activity_type">Activity type</string>
+    <string name="location">Location</string>
+    <string name="time">Time</string>
+    <string name="type_here">Type here</string>
+    <string name="example_chat_exchange">Ole: Hvor skal vi møtes?</string>
+    <string name="activity_list">Activity list</string>
+    <string name="example_activity_summery">Walk 22.01 at 17.30</string>
+    <string name="requests_close_by">Requests close by</string>
+    <string name="current_participents">Current participents</string>
+    <string name="num_one">1</string>
 
 </resources>
